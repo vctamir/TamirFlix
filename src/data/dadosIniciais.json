@@ -1,185 +1,579 @@
 {
-    "categorias": [
+  "categorias": [
+    {
+      "titulo": "A Guerra Galáctica",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Saga do Santuário",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
         {
-            "titulo": "Front End",
-            "link": "https://www.alura.com.br/formacao-front-end",
-            "cor": "#6BD1FF",
-            "link_extra": {
-                "text": "Formação de Front End na Alura",
-                "url": "https://www.alura.com.br/cursos-online-front-end"
-            },
-            "videos": [
-                {
-                    "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-                    "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-                },
-                {
-                    "titulo": "SEO com React",
-                    "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-                },
-                {
-                    "titulo": "Componentização com VanillaJS #AluraMais",
-                    "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-                },
-                {
-                    "titulo": "Pare de chutar e aprenda a display: inline #01",
-                    "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-                },
-                {
-                    "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-                    "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-                },
-                {
-                    "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-                    "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-                },
-                {
-                    "titulo": "Novidades do Angular v9",
-                    "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-                },
-                {
-                    "titulo": "Base para aprender os frameworks",
-                    "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-                }
-            ]
+          "titulo": "Queime o seu cosmos!",
+          "url": "https://www.youtube.com/watch?v=ETVem4WS8I0"
         },
         {
-            "titulo": "Back End",
-            "cor": "#00C86F",
-            "link_extra": {
-                "text": "Cursos de Back End na Alura",
-                "url": "https://www.alura.com.br/cursos-online-programacao"
-            },
-            "videos": [
-                {
-                    "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-                    "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-                },
-                {
-                    "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-                    "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-                },
-                {
-                    "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-                    "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-                },
-                {
-                    "titulo": "API: Dicionário do Programador",
-                    "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-                },
-                {
-                    "titulo": "Usando Git Direito",
-                    "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-                }
-            ]
+          "titulo": "Ep01-As Lendas de uma nova hera",
+          "url": "https://r3---sn-p5qs7n76.googlevideo.com/videoplayback?expire=1596151523&ei=Y-YiX4ysNoKuhgbknbaIDQ&ip=51.81.26.142&id=987e4a6abf762be0&itag=18&source=blogger&mh=lc&mm=31&mn=sn-p5qs7n76&ms=au&mv=m&mvi=3&pl=22&susc=bl&mime=video/mp4&dur=1432.485&lmt=1532996546209974&mt=1596122561&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRAIgXKZDZLlXYOZOG-twUXvnvqgbZuw3fiUcFqj1TSzqkh4CIE_qUxuJ6V7MXFHBRt6wlYQ51_3RRid-JECqMqok8nOj&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOGLsUKPaF5H28FvMaV6bHL8F6dx2minq3j4WM2Fkw2OAiEAq_6LgVXgVVpJqKRZ7N_KgX3E8fWquFrQOfSAo-2vmXg%3D",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-01-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
         },
         {
-            "titulo": "Data Science e Inteligência Artificial",
-            "cor": "#9cd33b",
-            "link_extra": {
-                "text": "Cursos de Data Science na Alura",
-                "url": "https://www.alura.com.br/formacao-data-science"
-            },
-            "videos": [
-                {
-                    "titulo": "Teste de Turing",
-                    "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-                },
-                {
-                    "titulo": "O que é Data Science?",
-                    "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-                },
-                {
-                    "titulo": "Melhor forma de aprender Python",
-                    "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-                },
-                {
-                    "titulo": "Como ingressar no mercado de Data Science?",
-                    "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-                }
-            ]
+          "titulo": "Ep02-Quando Seya veste a armadura de pegasus",
+          "url": "https://r2---sn-t0a7sn7d.googlevideo.com/videoplayback?expire=1596158543&ei=zwEjX-X6D-eD2LYPx--t4Ag&ip=51.81.26.142&id=2c25587c1c82dbeb&itag=18&source=blogger&mh=99&mm=31&mn=sn-t0a7sn7d&ms=au&mv=m&mvi=2&pl=22&susc=bl&mime=video/mp4&dur=1431.765&lmt=1532996707583153&mt=1596129636&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRgIhAJeiO68rmj0lGWwunAka7rNfIvfZkiw7F84nUM8Zpkk3AiEAgsbm-atNrd0DLxZr8kw46C9wjA84T1Dbcwchkb5T5j8%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgaEK79IYmM-s3nu_SBdEVdVIhbcomJa9h61JToZ4WLKcCIQCOQ8vEljENRZ50pIlGZQA_uPbIdUi7o17N1yj_iKw6vQ%3D%3D",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-02-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
         },
         {
-            "titulo": "Filmes",
-            "cor": "orange",
-            "videos": [
-                {
-                    "titulo": "Interestellar",
-                    "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-                },
-                {
-                    "titulo": "Gattaca",
-                    "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-                },
-                {
-                    "titulo": "A Chegada",
-                    "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-                },
-                {
-                    "titulo": "Feitiço do Tempo",
-                    "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-                }
-            ]
+          "titulo": "Ep03-Cisne o guerreiro do gelo",
+          "url": "https://r2---sn-p5qlsndz.googlevideo.com/videoplayback?expire=1596160086&ei=1gcjX62-JrSHhwb3zLPwBA&ip=51.81.26.142&id=80ad9407418ebe4a&itag=18&source=blogger&mh=NX&mm=31&mn=sn-p5qlsndz&ms=au&mv=m&mvi=2&pl=22&susc=bl&mime=video/mp4&dur=1431.603&lmt=1532996714825393&mt=1596131134&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRQIgMUNmJ6hphWJjvHyeCzB8GpLIGPEeb6i-rdcGothfo-ACIQDGWUNkWtHaA48HrH-MyvdLceg4yskSf29Oat2AgQUjVw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAP7KMtbfS8yKyYZy9Vr0bo-tE5ZKqQa7iokJMmfZelhbAiBV6UI9AM0DkQhOktauHgWoAspQPTRdDsQZMV_4cWe4Hw%3D%3D",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-03-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
         },
         {
-            "titulo": "Games",
-            "cor": "red",
-            "link_extra": {
-                "text": "Formação de Jogos na Alura",
-                "url": "https://www.alura.com.br/formacao-jogos-unity"
-            },
-            "videos": [
-                {
-                    "titulo": "Final Fantasy 7",
-                    "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-                },
-                {
-                    "titulo": "Assassins Creed Valhalla",
-                    "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-                },
-                {
-                    "titulo": "God of War 4",
-                    "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-                },
-                {
-                    "titulo": "Resident Evil 8",
-                    "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-                },
-                {
-                    "titulo": "Pokémon Let's Go Pikachu/Eevee",
-                    "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-                }
-            ]
+          "titulo": "Ep:04-O invencivel golpe do dragão",
+          "url": "https://r3---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=1596160578&ei=wgkjX9S-IsbkhwbjpL8I&ip=51.81.26.142&id=9453c6d5291578ce&itag=18&source=blogger&mh=Gt&mm=31&mn=sn-p5qlsnd6&ms=au&mv=m&mvi=3&pl=22&susc=bl&mime=video/mp4&dur=1431.765&lmt=1532996707539672&mt=1596131614&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRgIhAPCagFwcMURScXlJTVZ74WwHXMdS-wVQy_5vR5WxLS16AiEA5BCY7TLCUwkdRb3atkRl6Qj5kgAuQ-RZXP3Q6pKbszE%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgM1pG3K1QFVM4eh6YyF17D4BS5SIj7Fj9lEoC-I1vVkECIQDpegobiIWUWAW2VmU45PxDG3X4oNhp_zyIIFMOqB74Vg%3D%3D",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
         },
         {
-            "titulo": "Aprendendo a aprender tecnologia",
-            "cor": "#6b5be2",
-            "link_extra": {
-                "text": "Curso sobre aprendizado na Alura",
-                "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-            },
-            "videos": [
-                {
-                    "titulo": "Como estudar melhor?",
-                    "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-                },
-                {
-                    "titulo": "Faculdade",
-                    "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-                },
-                {
-                    "titulo": "Frameworks",
-                    "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-                },
-                {
-                    "titulo": "A mágica do Aprendizado",
-                    "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-                },
-                {
-                    "titulo": "Como aprender a programar?",
-                    "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-                }
-            ]
+          "titulo": "Ep:05-A resurreição do dragão",
+          "url": "https://r2---sn-t0a7sn7d.googlevideo.com/videoplayback?expire=1596159507&ei=kwUjX7GCDOeD2LYPx--t4Ag&ip=51.81.26.142&id=76137397bfbf8442&itag=18&source=blogger&mh=Nh&mm=31&mn=sn-t0a7sn7d&ms=au&mv=m&mvi=2&pl=22&susc=bl&mime=video/mp4&dur=1431.765&lmt=1532996728177511&mt=1596130534&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRQIhAMai0ohKwIZyBd_N_RofJ6Pcpfnp1nJl-xJhEw9F-aMlAiB15hD0CsU87ccToNqO5DGZAOkB4bpeTxiYPbit350ETg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgRythfPVaCVq-U34wHam0VtOBSjrvismdrNVcB9noQNwCIFA0DcMvZMaeU-0uo1sJNaNxl8kpIeolDT7kgXPKNpdm",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-05-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:06-Fenix, o guerreiro que voltou do inferno",
+          "url": "https://r3---sn-p5qlsnzd.googlevideo.com/videoplayback?expire=1596160938&ei=KgsjX-CIHIqkhwbT0pO4Dg&ip=51.81.26.142&id=5ca9610b02ea98b3&itag=18&source=blogger&mh=bw&mm=31&mn=sn-p5qlsnzd&ms=au&mv=m&mvi=3&pl=22&susc=bl&mime=video/mp4&dur=1431.254&lmt=1532996732450208&mt=1596132035&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRAIgFW8XE7XuPUCul_i1S1MTxRwLkC3E7dPHF3edHMBw5EYCICGALLTXqArIhUNmjQ-eAVa5UjzTBU4bkO1oo-YKFV33&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgRXUguylHEPjhSP4xz7vwpTfJezQNRXt_8FGPo8fNABQCICO0bX9K7zmIE_R3hs-CNa-emVVpOl5WPZhYwn9H3xoB",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-06-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:07-A vingança do cavaleiro Fenix",
+          "url": "https://r5---sn-p5qlsnz6.googlevideo.com/videoplayback?expire=1596162195&ei=ExAjX6aXFYKuhgbknbaIDQ&ip=51.81.26.142&id=65ba2c354deaf0b7&itag=18&source=blogger&mh=v6&mm=31&mn=sn-p5qlsnz6&ms=au&mv=m&mvi=5&pl=22&susc=bl&mime=video/mp4&dur=1431.951&lmt=1532996737073743&mt=1596133234&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRQIhAIs1p_JrdQbsT2-LnT-KANg6oYkXFQdl8uAQhxXH9Yk5AiAFaerkzyZvOz6GAMeKhodSOzUHS0UgDUXj2FStVgjo1A%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgSG301uvut4S6WtDHD6yyc8wA3ih2fPvkf18jIf6ELroCIQDx_wDRZCI2oNXtjR06dDH16eOyW3PhF-_spCtvNvy7eg%3D%3D",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-07-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:08-A procura da armadura de ouro",
+          "url": "https://r3---sn-p5qs7n76.googlevideo.com/videoplayback?expire=1596162917&ei=5RIjX6r_Mov2hga5t5bgCg&ip=51.81.26.142&id=2fb4c76d9cdc9cd6&itag=18&source=blogger&mh=dN&mm=31&mn=sn-p5qs7n76&ms=au&mv=m&mvi=3&pl=22&susc=bl&mime=video/mp4&dur=1432.160&lmt=1532996770743749&mt=1596134017&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRQIhAJa8xLoxbFk1nMSO2TSOMipE2Fq-yIp6gTCGoMs82u1DAiATAW5pGshBFX0OLqu9Ix-M9_7zhO5Upcb1QdLGc0uDIQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgJ9kll-M_dKeTeD8pfTfsW5tEpz8wEvxVmyaFqopiHNsCIEYtjkWFOLnBBSsxaJW8nkJc08PEUZtOzo8nhgQ2ju8V",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-08-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
         }
-    ]
+      ]
+    },
+    {
+      "titulo": "Os Cavaleiros Negros",
+      "cor": "#333333",
+      "link_extra": {
+        "text": "Saga do Santuário",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        }
+      ]
+    },
+    {
+      "titulo": "Forças Ocultas no Santuário",
+      "cor": "#abd0bc",
+      "link_extra": {
+        "text": "Saga do Santuário",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        }
+      ]
+    },
+    {
+      "titulo": "Os Cavaleiros de Prata",
+      "cor": "#d3d3d3",
+      "link_extra": {
+        "text": "Saga do Santuário",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        }
+      ]
+    },
+    {
+      "titulo": "Os Cavaleiros de Ouro",
+      "cor": "#e1cb2d",
+      "link_extra": {
+        "text": "Saga do Santuário",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        }
+      ]
+    },
+    {
+      "titulo": "A Batalha das Doze Casas",
+      "cor": "#1fba09",
+      "link_extra": {
+        "text": "Saga do Santuário",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        }
+      ]
+    },
+    {
+      "titulo": "Saga de Asgard",
+      "cor": "#ff0c2a",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        }
+      ]
+    },
+    {
+      "titulo": "Saga de Poseidon",
+      "cor": "#2c43e1",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        }
+      ]
+    },
+    {
+      "titulo": "Santuário",
+      "cor": "#2ce1ca",
+      "link_extra": {
+        "text": "Saga de Hades",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        },
+        {
+          "titulo": "Ep:0-",
+          "url": "",
+          "img": "https://animesonline.vip/wp-content/uploads/2018/10/os-cavaleiros-do-zodiaco-dublado-episodio-04-online-150x150.jpg",
+          "descricao": "Os Cavaleiros do Zodíaco ou Saint Seya, conta a histórias de um grupo de cinco jovens guerreiros, que tinham de lutar para proteger Saori Kido, que era a reencarnação da deusa da sabedoria grega Atena, das forças do mal. Para lutar os guerreiros, não somente utilizavam sua energia interior, denominados de cosmos, assim como seus punhos e armaduras que serviam para sua proteção e que eram inspiradas nas constelações do zodíaco e seres da mitologia grega."
+        }
+      ]
+    }
+  ]
 }

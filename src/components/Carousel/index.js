@@ -37,6 +37,7 @@ function Carousel({
                 videoTitle={video.titulo}
                 videoURL={video.url}
                 categoryColor={categoryColor}
+                img={video.img}
               />
             </SliderItem>
           );

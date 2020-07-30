@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const PageContainer = styled.main`
- background-color:var(--black);
+ /* background-color:var(--black); */
  color:var(--white);
  flex:1;
  padding-top:50px;

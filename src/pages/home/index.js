@@ -11,7 +11,7 @@ function Home() {
             <BannerMain
                 videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
                 url={dadosIniciais.categorias[0].videos[0].url}
-                videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+                videoDescription={" Os Cavaleiros do Zodíaco é uma série japonesa de mangá e anime escrito e ilustrada por Masami Kurumada.     Conta-se que os cavaleiros aparecem quando o mundo é ameaçado pelo mal"}
             />
 
             <Carousel
@@ -37,6 +37,15 @@ function Home() {
 
             <Carousel
                 category={dadosIniciais.categorias[5]}
+            />
+            <Carousel
+                category={dadosIniciais.categorias[6]}
+            />
+            <Carousel
+                category={dadosIniciais.categorias[7]}
+            />
+            <Carousel
+                category={dadosIniciais.categorias[8]}
             />
 
         </PageDefault>

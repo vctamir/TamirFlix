@@ -10,14 +10,14 @@ export const VideoCardContainer = styled.a`
   flex: 0 0 298px;
   width: 298px;
   height: 197px;
-  background-image: ${({ url }) => `url(${url})`};
+  background-image: ${({url}) => `url(${url})`};
   background-size: cover;
   background-position: center;
   border-radius: 10px;
   position: relative;
   display: flex;
   align-items: flex-end;
-  padding: 16px;
+  /* padding: 16px; */
 
   transition: opacity .3s;
   &:hover,
@@ -29,3 +29,16 @@ export const VideoCardContainer = styled.a`
     margin-left: 20px;
   }
 `;
+
+export const VideoCardTitle = styled.label`
+position:"relative";
+bottom:0;
+padding:10px 5px;
+background-color:gray;
+opacity:0.8;
+width:100%;
+cursor: pointer;
+font-size:10pt;
+
+
+`

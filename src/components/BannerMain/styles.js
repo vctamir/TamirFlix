@@ -24,6 +24,17 @@ ContentAreaContainer.Item = styled.div`
   }
 `;
 
+ContentAreaContainer.Caption = styled.div`
+   width: 90%; 
+  display: inline-block;
+  background-color:rgba(51,51,51,0.7);
+  margin-bottom: 50px;
+  border-radius:15px;
+  padding:20px;
+  /* opacity:.8; */
+  
+`;
+
 ContentAreaContainer.Category = styled.h1`
   font-family: Roboto;
   font-style: normal;
@@ -69,7 +80,7 @@ export const BannerMainContainer = styled.section`
   height: 80vh;
   position: relative;
   color: #fff;
-  background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
+  background-image: ${({backgroundImage}) => `url(${backgroundImage})`}; 
   background-size: cover;
   background-position: center;
   @media (max-width: 800px) {
